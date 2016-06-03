@@ -1,0 +1,30 @@
+{
+  "name": "scout",
+  "version": "0.0.1",
+  "description": "scout for pc and mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:lastep/scout.git"
+  },
+  "keywords": [
+    "scout",
+    "react",
+    "redux"
+  ],
+  "author": "bocheng.zbc@alibaba-inc.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015-native-modules": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "webpack": "^2.1.0-beta.8"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "redux": "^3.5.2"
+  }
+}
