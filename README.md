@@ -1,5 +1,18 @@
 # Scout项目 - 探子来报
 
+[![test][test-image]][ci-url]
+[![lines coverage][lines-coverage-image]][ci-url]
+[![branches coverage][branches-coverage-image]][ci-url]
+[![functions coverage][functions-coverage-image]][ci-url]
+[![statements coverage][statements-coverage-image]][ci-url]
+
+[ci-url]: http://uitest.taobao.net/task?repo=lastep/scout
+[test-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test
+[lines-coverage-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test&coverage=lines
+[branches-coverage-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test&coverage=branches
+[functions-coverage-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test&coverage=functions
+[statements-coverage-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test&coverage=statements
+
 ## 技术栈
 
  - 服务端&前端：Koa + React + Redux + Webpack2 + Babel6
