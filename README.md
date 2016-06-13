@@ -1,5 +1,6 @@
 # Scout项目
 
+[![Build Status](https://travis-ci.org/boycgit/scout.svg?branch=master)](https://travis-ci.org/boycgit/scout)
 [![Coverage Status](https://coveralls.io/repos/github/boycgit/scout/badge.svg?branch=master)](https://coveralls.io/github/boycgit/scout?branch=master)
 
 ## 技术栈
