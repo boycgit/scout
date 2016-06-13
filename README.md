@@ -1,6 +1,6 @@
-# Scout项目 - 探子来报
+# Scout项目
 
-[![Coverage Status](https://coveralls.io/repos/github/kissygalleryteam/detector/badge.svg?branch=master)](https://coveralls.io/github/kissygalleryteam/detector?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/boycgit/scout/badge.svg?branch=master)](https://coveralls.io/github/boycgit/scout?branch=master)
 
 ## 技术栈
 
