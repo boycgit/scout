@@ -1,17 +1,6 @@
 # Scout项目 - 探子来报
 
-[![test][test-image]][ci-url]
-[![lines coverage][lines-coverage-image]][ci-url]
-[![branches coverage][branches-coverage-image]][ci-url]
-[![functions coverage][functions-coverage-image]][ci-url]
-[![statements coverage][statements-coverage-image]][ci-url]
-
-[ci-url]: http://uitest.taobao.net/task?repo=lastep/scout
-[test-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test
-[lines-coverage-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test&coverage=lines
-[branches-coverage-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test&coverage=branches
-[functions-coverage-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test&coverage=functions
-[statements-coverage-image]: http://uitest.taobao.net/badge?repo=lastep/scout&plugin=test&coverage=statements
+[![Coverage Status](https://coveralls.io/repos/github/kissygalleryteam/detector/badge.svg?branch=master)](https://coveralls.io/github/kissygalleryteam/detector?branch=master)
 
 ## 技术栈
 
@@ -21,6 +10,9 @@
  - API规范：采用Swagger开发
  - 文档搜索：Elasticsearch
  - 离线缓存，消息推送：Server worker
+ - 测试技术栈：
+    - [ava](https://github.com/avajs/ava-docs/blob/master/zh_CN/readme.md)
+    - [ava coverage](https://github.com/avajs/ava-docs/blob/master/zh_CN/docs/recipes/code-coverage.md)
 
 ## 功能
 

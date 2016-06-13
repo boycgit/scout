@@ -73,8 +73,6 @@ log
 .svn
 **/tms
 .DS_Store
-tempDir
 **/.DS_Store
-mods/*
-!/mods/README.md
-mochawesome-reports
+coverage
+.nyc_output
